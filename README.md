@@ -10,12 +10,12 @@
 - 聚拼团 聚划算特价拼团，一张订单多人成交
 
 ------------
-### 下載app：
-##### [Android](https://raw.githubusercontent.com/daisyblog/daisy520/master/daisy520_v1.0.2.apk "Android")
-##### IOS (开发中)
+## 下載app：
+### [Android](https://raw.githubusercontent.com/daisyblog/daisy520/master/daisy520_v1.0.2.apk "Android")
+### IOS (开发中)
 
 ------------
-### 公开频道：
+## 公开频道：
 [可靠口罩监控平台 Mask Monitor](https://t.me/maskmonitor "可靠口罩监控平台 Mask Monitor")
 
 [Daisy闺蜜姊妹团](https://t.me/daisyblog "Daisy闺蜜姊妹团")
@@ -23,5 +23,5 @@
 [Daisy吃货の殿堂](https://t.me/daisyfood "Daisy吃货の殿堂")
 
 ------------
-### Daisy内部优惠站(永久网址)：
+## Daisy内部优惠站(永久网址)：
 https://daisy520.com
